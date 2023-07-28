@@ -14,7 +14,7 @@
   <li>Single</li>
   <li>String</li>
 </ul>
-<h3><strong>Tipos de datos</strong></h3>
+<h3><strong>Elementos de declaraciones</strong></h3>
 <ul>
 <li>Dim</li>
 <li>Const</li>
