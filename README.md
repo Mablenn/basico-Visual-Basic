@@ -1,7 +1,7 @@
 # basico-Visual-Basic
 <h2>Ejemplos básicos del lenguaje Visual Basic</h2>
+<h3><strong>Tipos de datos</strong></h3>
 <ul>
-<li><h3></h3>Tipos de datos</h3></li>
   <li>Boolean</li>
   <li>Byte</li>
   <li>Char</li>
