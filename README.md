@@ -14,6 +14,19 @@
   <li>Single</li>
   <li>String</li>
 </ul>
+<h3><strong>Tipos de datos</strong></h3>
 <ul>
-<li>Variables</li>
+<li>Dim</li>
+<li>Const</li>
+<li>Enum</li>
+<li>Structure</li>
+  <li>Property</li>
+  <li>Class</li>
+  <li>Interface</li>
+  <li>Declare</li>
+  <li>Sub</li>
+  <li>Function</li>
+  <li>Event</li>
+  <li>Delegate</li>
+  <li>Module</li>
 </ul>
